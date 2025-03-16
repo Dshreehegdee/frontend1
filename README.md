@@ -10,10 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -47,4 +44,4 @@ During this project, I learned how to effectively use Flexbox for layout and how
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 ### Acknowledgments
-A special thanks to the Frontend Mentor community for their support and inspiration throughout this project.
+-A special thanks to the Frontend Mentor community for their support and inspiration throughout this project.
